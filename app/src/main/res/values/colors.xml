@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151c25</color>
+    <color name="colorPrimaryDark">#151c25</color>
+    <color name="colorAccent">#f1b814</color>
+    <color name="player_bg">#000000</color>
+    <color name="shutter_bg">#000000</color>
+    <color name="video_player_bg">#000000</color>
+</resources>
